@@ -1,0 +1,24 @@
+2025-10-15 08:04:13,508 181579 INFO ? odoo: Odoo version 19.0 
+2025-10-15 08:04:13,509 181579 INFO ? odoo: Using configuration file at /home/kasun-webmotech/Desktop/webmotech/odoo/odoo.conf 
+2025-10-15 08:04:13,509 181579 INFO ? odoo: addons paths: _NamespacePath(['/home/kasun-webmotech/Desktop/webmotech/odoo/odoo/addons', '/home/kasun-webmotech/Desktop/webmotech/odoo/data/addons/19.0', '/home/kasun-webmotech/Desktop/webmotech/odoo/addons']) 
+2025-10-15 08:04:13,509 181579 INFO ? odoo: database: odoo@localhost:5432 
+2025-10-15 08:04:13,821 181579 INFO ? odoo.service.server: Watching addons folder /home/kasun-webmotech/Desktop/webmotech/odoo/odoo/addons 
+2025-10-15 08:04:13,821 181579 INFO ? odoo.service.server: Watching addons folder /home/kasun-webmotech/Desktop/webmotech/odoo/data/addons/19.0 
+2025-10-15 08:04:13,821 181579 INFO ? odoo.service.server: Watching addons folder /home/kasun-webmotech/Desktop/webmotech/odoo/addons 
+2025-10-15 08:04:14,251 181579 INFO ? odoo.service.server: AutoReload watcher running with inotify 
+2025-10-15 08:04:14,252 181579 INFO ? odoo.service.server: HTTP service (werkzeug) running on localhost:8069 
+2025-10-15 08:07:55,987 181579 INFO ? odoo.service.server: Initiating shutdown 
+2025-10-15 08:07:55,987 181579 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-10-15 08:07:59,307 182998 INFO ? odoo: Odoo version 19.0 
+2025-10-15 08:07:59,308 182998 INFO ? odoo: Using configuration file at /home/kasun-webmotech/Desktop/webmotech/odoo/odoo.conf 
+2025-10-15 08:07:59,308 182998 INFO ? odoo: addons paths: _NamespacePath(['/home/kasun-webmotech/Desktop/webmotech/odoo/odoo/addons', '/home/kasun-webmotech/Desktop/webmotech/odoo/data/addons/19.0', '/home/kasun-webmotech/Desktop/webmotech/odoo/addons']) 
+2025-10-15 08:07:59,308 182998 INFO ? odoo: database: odoo@localhost:5432 
+2025-10-15 08:07:59,625 182998 INFO ? odoo.service.server: Watching addons folder /home/kasun-webmotech/Desktop/webmotech/odoo/odoo/addons 
+2025-10-15 08:07:59,625 182998 INFO ? odoo.service.server: Watching addons folder /home/kasun-webmotech/Desktop/webmotech/odoo/data/addons/19.0 
+2025-10-15 08:07:59,625 182998 INFO ? odoo.service.server: Watching addons folder /home/kasun-webmotech/Desktop/webmotech/odoo/addons 
+2025-10-15 08:08:00,070 182998 INFO ? odoo.service.server: AutoReload watcher running with inotify 
+2025-10-15 08:08:00,071 182998 INFO ? odoo.service.server: HTTP service (werkzeug) running on localhost:8069 
+2025-10-15 08:15:53,349 182998 INFO ? odoo.service.server: Initiating shutdown 
+2025-10-15 08:15:53,349 182998 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-10-15 08:15:53,559 182998 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 2 connections  
+2025-10-15 08:15:53,559 182998 INFO ? odoo.service.server: cron0 max age (0s) reached, releasing connection. 
